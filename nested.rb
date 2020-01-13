@@ -87,7 +87,7 @@ programmer_hash[:yukihiro_matsumoto] = {
     :languages => ["LISP", "C"]
  }
  
- return programmer_hash[log10]
+ return programmer_hash[0]
     
 end
 
